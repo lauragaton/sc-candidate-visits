@@ -690,6 +690,108 @@
           33.559563601115755
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ted Cruz (R)",
+        "month": 4,
+        "date": 5,
+        "note": "Easter sunrise service",
+        "storyurl": "http://www.postandcourier.com/article/20150404/PC1603/150409750"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.93020415306091,
+          32.76978381910527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rick Perry (R)",
+        "month": 4,
+        "date": 6,
+        "note": "The Citadel Republican Society",
+        "storyurl": "http://www.postandcourier.com/article/20150404/PC1603/150409750"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.96059894561768,
+          32.797105338772376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rand Paul (R)",
+        "month": 4,
+        "date": 9,
+        "note": "Launch of South Carolina campaign",
+        "storyurl": "http://www.postandcourier.com/article/20150404/PC1603/150409750"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.90540981292723,
+          32.79016074953333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Rick Santorum (R)",
+        "month": 4,
+        "date": 11,
+        "note": "Republican Party conventions",
+        "storyurl": "http://www.postandcourier.com/article/20150404/PC1603/150409750"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9403429031372,
+          32.78745491861048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Donald Trump (R)",
+        "month": 4,
+        "date": 13,
+        "note": "State Financial Officers Foundation",
+        "storyurl": "http://www.postandcourier.com/article/20150404/PC1603/150409750"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.93010759353638,
+          32.7814161091133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Carly Fiorina (R)",
+        "month": 4,
+        "date": 13,
+        "note": "State Financial Officers Foundation",
+        "storyurl": "http://www.postandcourier.com/article/20150404/PC1603/150409750"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9300941824913,
+          32.78142061920615
+        ]
+      }
     }
   ]
 }
