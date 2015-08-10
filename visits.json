@@ -478,7 +478,8 @@
         "candidate": "Jeb Bush (R)",
         "month": 3,
         "date": 17,
-        "note": "South Carolina House Republican Caucus fundraiser"
+        "note": "South Carolina House Republican Caucus fundraiser",
+        "storyurl": ""
       },
       "geometry": {
         "type": "Point",
@@ -561,7 +562,7 @@
         "month": 3,
         "date": 20,
         "note": "Fundraising lunch for the SCGOP",
-        "storyurl": ""
+        "storyurl": "http://www.postandcourier.com/article/20150320/PC1603/150329933"
       },
       "geometry": {
         "type": "Point",
