@@ -605,6 +605,91 @@
           32.78806824750086
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ted Cruz (R)",
+        "month": 4,
+        "date": 3,
+        "note": "Town Hall",
+        "storyurl": "http://www.postandcourier.com/article/20150403/PC1603/150409773"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.02537155151367,
+          34.92394152269279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ted Cruz (R)",
+        "month": 4,
+        "date": 3,
+        "note": "Beacon Drive-In Restaurant",
+        "storyurl": "http://www.postandcourier.com/article/20150403/PC1603/150409773"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.94297671318054,
+          34.940715132399845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ted Cruz (R)",
+        "month": 4,
+        "date": 3,
+        "note": "Republican women’s reception",
+        "storyurl": "http://www.postandcourier.com/article/20150403/PC1603/150409773"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.39643096923828,
+          34.848888906157256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ted cruz (R)",
+        "month": 4,
+        "date": 4,
+        "note": "Palmetto Pig BBQ",
+        "storyurl": "http://www.postandcourier.com/article/20150403/PC1603/150409773"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.03996276855469,
+          33.991338098316746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "candidate": "Ted Cruz (R)",
+        "month": 4,
+        "date": 4,
+        "note": "Republican club meeting",
+        "storyurl": "http://www.postandcourier.com/article/20150403/PC1603/150409773"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7221450805664,
+          33.559563601115755
+        ]
+      }
     }
   ]
 }
